@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Spike Spiegel",
+    "price": 2000.00,
+    "imgUrl": "/imgs/spike.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Travis Bickle",
+    "price": 5000.00,
+    "imgUrl": "/imgs/travis.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Edward Scissorhands",
+    "price": 1000.00,
+    "imgUrl": "/imgs/edward.jpg"
+  },
+  {
+    "id": 4,
+    "name": "The Narrator",
+    "price": 2500.00,
+    "imgUrl": "/imgs/narrator.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Patrick Bateman",
+    "price": 1700.00,
+    "imgUrl": "/imgs/patrick.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Baby Yoda",
+    "price": 10000.00,
+    "imgUrl": "/imgs/yoda.jpeg"
+  }
+]
